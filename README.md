@@ -108,8 +108,8 @@ I worked on the interactive experience around each wallpaper, including image vi
 
 ## What I learned
 
-- **Designing discovery:** How questions, categories, and search offer different ways to find the right image.
-- **Image optimization:** How to balance image size and visual quality for feeds and detail pages while preserving the original for downloads.
-- **Loading growing collections:** Why paginated wallpaper and comment lists are better than loading everything at once.
-- **Community features:** How accounts, favorites, comments, and replies add interaction to a content platform.
-- **Access and security:** How to separate public content, user-owned actions, admin tools, and protected image uploads.
+- **Content discovery:** How search, categories, visual prompts, and related wallpapers help people explore a growing collection.
+- **User interaction:** How favorites, comments, and replies change a gallery into a more participatory experience.
+- **Managing larger collections:** Why loading wallpapers and comments in pages matters for usability and data usage.
+- **Image handling:** How to upload images through a protected server route and deliver suitable versions for cards and detail views.
+- **Access control:** How customer features, admin tools, and super-admin tools need different permissions.
